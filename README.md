@@ -1,2 +1,2 @@
 # randomText
-https://mamadykonte.github.io/randomText/
+le lien https://mamadykonte.github.io/randomText/
